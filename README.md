@@ -1,5 +1,7 @@
 # Laravel serve swagger
 
+Deprecated, use https://github.com/ensi-platform/laravel-serve-swagger instead
+
 Пакет позволяет вывести Swagger UI, настроив только пути до ваших openapi3 конфигов
 
 ## Установка
